@@ -1,4 +1,6 @@
-Hi there, I’m Kiruthikaa Natarajan Srinivasan 👋
+Hi there, 
+
+I’m Kiruthikaa Natarajan Srinivasan 👋
 Senior AI & Supply Chain Researcher | IEEE Senior Member
 I am a technical leader specializing in the intersection of Artificial Intelligence, Data Analytics, and Global Supply Chain Integrity. My work focuses on building "Predictive Resilience"—using machine learning to solve complex problems like cBOM Cost Drift, multi-domain risk, and supply chain sustainability.
 
